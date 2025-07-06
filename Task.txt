@@ -1,0 +1,13 @@
+📂 Directory: math_stats
+📄 File: main.py
+
+📝 Instructions:
+Given a list of numbers, calculate and print:
+
+Maximum
+Minimum
+Sum
+Average (as a float)
+Square root of the average (rounded to 2 decimal places)
+
+Use the math module.
